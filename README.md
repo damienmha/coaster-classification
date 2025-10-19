@@ -4,4 +4,4 @@ As an frequent visitor of theme parks and amusement parks and a thrill seeker, I
 
 Based on the data in one file, I attempted to train multiple classificantion algorithms and a neural network to idenitfy roller coasters by type (steel, wood, or hybrid) based on the characteristics in the data. I will continue trying to improve this, though there are some issues with class imbalance. There may also not be enough variables that can accurately contribute to predicting this
 
-I am therefore looking at a second file in some of the data I found to attempt the same task. It has more variables that could be useful, but it is much messier and I am still in the process of cleaning it
+I am therefore looking at a second file in some of the data I found to attempt the same task. It has more variables that could be useful, but it is much messier. I have now finished cleaning it and am training classification models and a deep learning model on it
